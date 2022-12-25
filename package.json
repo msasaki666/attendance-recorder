@@ -1,0 +1,14 @@
+{
+  "name": "attendance-recorder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sasaki Motoaki",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.56"
+  }
+}
